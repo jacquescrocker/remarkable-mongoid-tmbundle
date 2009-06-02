@@ -1,0 +1,42 @@
+# TODO
+
+This bundle is work in progress. Any suggestions are welcomed. Currently many placeholders which can be set with snippets are missing. Any quesitons and suggegstions can be sent at <takaaki@samuraicoder.net>
+
+* Set more place holders
+* Supports negative **not** versions
+
+
+# TextMate bundle for Remarkable
+
+Remarkable is a plugin for RSpec. This is a collection of snippets for Remarkable and Paperclip for Remarkable.
+
+There are also commands to open RDocs in your default browser.
+
+
+## Usage
+
+Set the language in TextMate to RSpec. I set the tab triggers, but if you aren't comfortable, change them for yourself. Don't forget that you can always search with Command-Control-T.
+
+## Formats
+
+Remarkable allows different styles, but this snippet only focuses on something like
+
+    should_validate_numericality_of :age, :greater_than => 18, :only_integer => true
+    
+
+Currently it cannot work with the other formats such as
+
+    it { should validate_numericality_of(:age, :greater_than => 18, :only_integer => true) }
+    it { should validate_numericality_of(:age).greater_than(18).only_integer }
+
+## Resources
+
+* <http://remarkable.rubyforge.org/>
+* <http://github.com/carlosbrando/remarkable/tree/master>
+* <http://wiki.github.com/carlosbrando/remarkable>
+* <http://github.com/dcrec1/remarkable_paperclip/tree/master>
+
+## Contributer
+
+* Takaaki Kato 
+

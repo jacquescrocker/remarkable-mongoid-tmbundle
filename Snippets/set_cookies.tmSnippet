@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_set_cookies</string>
+	<key>name</key>
+	<string>set_cookies</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>9CE30FCF-CC41-4CF7-B36E-463D658C1DD1</string>
+</dict>
+</plist>

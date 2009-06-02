@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_set_the_flash :${1:user}, :to =&gt; ${2:nil}
+</string>
+	<key>name</key>
+	<string>should_set_the_flash :user, :to =&gt; nil
+</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>2DA12D7E-C69B-4B14-A5B1-640FC046E6FC</string>
+</dict>
+</plist>

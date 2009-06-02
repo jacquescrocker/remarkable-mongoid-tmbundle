@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_route :${1:get},'${2:/posts}',${3::action =&gt; :${4:index}}
+</string>
+	<key>name</key>
+	<string>should_route</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>1BE07EC9-2F91-48C2-ADF3-26ED56AF7955</string>
+</dict>
+</plist>

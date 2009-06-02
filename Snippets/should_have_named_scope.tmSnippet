@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>have_index :${1:value} $0</string>
+	<key>name</key>
+	<string>should_have_named_scope</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>AF5E7FDA-296F-4C6B-9D96-C24FC2AAC480</string>
+</dict>
+</plist>

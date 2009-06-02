@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should have_attached_file :${1:image}
+
+</string>
+	<key>name</key>
+	<string>should_have_attached_file</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>84BD33F1-7EFE-4A4F-BBB3-C38A38F83582</string>
+</dict>
+</plist>

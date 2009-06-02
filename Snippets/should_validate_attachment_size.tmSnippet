@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_validate_attachment_size :${1:image}, :less_than =&gt; ${2:size}</string>
+	<key>name</key>
+	<string>should_validate_attachment_size</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>4051B4A0-2512-4AE9-B813-421CF0F934B1</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>open "http://remarkable.rubyforge.org/rails/"</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>Open Remarkable Rails RDoc</string>
+	<key>output</key>
+	<string>replaceSelectedText</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>AC7DD3B8-EB65-4990-A0F0-4DA03535E772</string>
+</dict>
+</plist>

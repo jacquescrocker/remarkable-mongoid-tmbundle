@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_validate_attachment_content_type :${1:image}, :content_type =&gt; ${2:['image/jpeg', 'image/png']}</string>
+	<key>name</key>
+	<string>should_validate_attachment_content_type</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>155D9AAB-BC9F-46D0-9E8E-E5DAED91DCE5</string>
+</dict>
+</plist>

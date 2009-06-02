@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>open "http://github.com/carlosbrando/remarkable/tree/master"</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>Open Remarkable GitHub</string>
+	<key>output</key>
+	<string>replaceSelectedText</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>8210906F-173C-481C-893E-E885E6F9C04A</string>
+</dict>
+</plist>

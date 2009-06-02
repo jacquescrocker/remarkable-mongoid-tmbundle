@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_accept_nested_attributes_for :${1:value} $0</string>
+	<key>name</key>
+	<string>should_accept_nested_attributes_for</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>uuid</key>
+	<string>DCC95AA0-0428-4227-9840-E1A7BFFCACFA</string>
+</dict>
+</plist>
