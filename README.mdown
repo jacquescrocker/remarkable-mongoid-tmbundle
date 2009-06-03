@@ -12,6 +12,12 @@ Remarkable is a plugin for RSpec. This is a collection of snippets for Remarkabl
 
 There are also commands to open RDocs in your default browser.
 
+## Install
+
+1. `git clone git://github.com/samuraicoder/samuraicoder-tmbundle.git ~/Library/Application\ Support/TextMate/Bundles/Ruby\ Remarkable.tmbundle`
+
+2. Reload the bundles from "Bundles" &#x2192; "Bundle Editor" &#x2192; "Reload Bundle"
+
 
 ## Usage
 
