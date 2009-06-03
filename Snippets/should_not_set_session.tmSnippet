@@ -8,6 +8,8 @@
 	<string>should_not_set_session</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shnss</string>
 	<key>uuid</key>
 	<string>92E3A196-718E-4A28-B760-69F74AA50678</string>
 </dict>

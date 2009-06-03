@@ -9,6 +9,8 @@
 	<string>should_route</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shr</string>
 	<key>uuid</key>
 	<string>1BE07EC9-2F91-48C2-ADF3-26ED56AF7955</string>
 </dict>

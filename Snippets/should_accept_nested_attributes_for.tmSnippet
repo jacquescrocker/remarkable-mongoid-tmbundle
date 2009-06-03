@@ -8,6 +8,8 @@
 	<string>should_accept_nested_attributes_for</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shanaf</string>
 	<key>uuid</key>
 	<string>DCC95AA0-0428-4227-9840-E1A7BFFCACFA</string>
 </dict>

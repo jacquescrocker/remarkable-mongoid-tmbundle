@@ -8,6 +8,8 @@
 	<string>should_not_set_the_flash</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shsf</string>
 	<key>uuid</key>
 	<string>7FD4D9D2-1CBF-477E-B981-1557506EE23E</string>
 </dict>

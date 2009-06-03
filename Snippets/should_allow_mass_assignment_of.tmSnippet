@@ -8,6 +8,8 @@
 	<string>should_allow_mass_assignment_of</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shamao</string>
 	<key>uuid</key>
 	<string>2EAB7B22-9503-40E5-A0C5-263734A003FD</string>
 </dict>

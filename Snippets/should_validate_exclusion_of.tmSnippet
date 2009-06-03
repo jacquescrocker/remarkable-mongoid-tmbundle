@@ -8,6 +8,8 @@
 	<string>should_validate_exclusion_of</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shve</string>
 	<key>uuid</key>
 	<string>A437B4B0-DB69-4FBB-8AF0-C8F20679B8AC</string>
 </dict>

@@ -8,6 +8,8 @@
 	<string>should_validate_attachment_content_type</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shvact</string>
 	<key>uuid</key>
 	<string>155D9AAB-BC9F-46D0-9E8E-E5DAED91DCE5</string>
 </dict>

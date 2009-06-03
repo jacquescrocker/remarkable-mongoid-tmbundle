@@ -8,6 +8,8 @@
 	<string>should_validate_numericality_of</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shvn</string>
 	<key>uuid</key>
 	<string>1C3EEF27-694F-4498-BAF1-8708F14F68B6</string>
 </dict>

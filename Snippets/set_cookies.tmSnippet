@@ -5,9 +5,11 @@
 	<key>content</key>
 	<string>should_set_cookies</string>
 	<key>name</key>
-	<string>set_cookies</string>
+	<string>should_set_cookies</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shsc</string>
 	<key>uuid</key>
 	<string>9CE30FCF-CC41-4CF7-B36E-463D658C1DD1</string>
 </dict>

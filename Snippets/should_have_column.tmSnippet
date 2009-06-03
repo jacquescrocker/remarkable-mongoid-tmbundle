@@ -8,6 +8,8 @@
 	<string>should_have_column</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shhc</string>
 	<key>uuid</key>
 	<string>ECC917F4-3A8B-4EB6-B72A-D06C586BE54F</string>
 </dict>

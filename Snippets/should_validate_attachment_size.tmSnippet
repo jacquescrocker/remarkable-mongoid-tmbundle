@@ -8,6 +8,8 @@
 	<string>should_validate_attachment_size</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shvas</string>
 	<key>uuid</key>
 	<string>4051B4A0-2512-4AE9-B813-421CF0F934B1</string>
 </dict>

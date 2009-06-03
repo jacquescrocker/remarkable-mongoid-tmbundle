@@ -8,6 +8,8 @@
 	<string>should_have_indices</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shhi</string>
 	<key>uuid</key>
 	<string>E205BB3F-768E-486D-8BBD-EE18EBDC7D8F</string>
 </dict>

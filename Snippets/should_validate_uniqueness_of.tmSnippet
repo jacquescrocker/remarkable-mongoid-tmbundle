@@ -8,6 +8,8 @@
 	<string>should_validate_uniqueness_of</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shvu</string>
 	<key>uuid</key>
 	<string>E51A60AF-A0E8-4FC6-902D-B962BDDDED1C</string>
 </dict>

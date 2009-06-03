@@ -8,6 +8,8 @@
 	<string>should_redirect_to</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shrt</string>
 	<key>uuid</key>
 	<string>D0093BA6-1DAF-475A-AA74-47F96E5D021B</string>
 </dict>

@@ -8,6 +8,8 @@
 	<string>should_allow_values_for</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shavf</string>
 	<key>uuid</key>
 	<string>74EC5E6B-DFD8-4608-9386-F880F1A10B00</string>
 </dict>

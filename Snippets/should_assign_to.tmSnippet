@@ -8,6 +8,8 @@
 	<string>should_assign_to</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shat</string>
 	<key>uuid</key>
 	<string>AC2548A0-39E9-4AC0-98F7-00840E9A994C</string>
 </dict>

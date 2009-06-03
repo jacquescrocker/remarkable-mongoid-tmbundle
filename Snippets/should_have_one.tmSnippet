@@ -8,6 +8,8 @@
 	<string>should_have_one</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shho</string>
 	<key>uuid</key>
 	<string>DF4FDED9-20C8-411C-94FF-F46D0DE8664F</string>
 </dict>

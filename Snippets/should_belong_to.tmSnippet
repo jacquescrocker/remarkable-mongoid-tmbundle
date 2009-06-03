@@ -8,6 +8,8 @@
 	<string>should_belong_to</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shbt</string>
 	<key>uuid</key>
 	<string>EA6EDF43-2D08-4AF7-AA3B-9DBD0714F458</string>
 </dict>

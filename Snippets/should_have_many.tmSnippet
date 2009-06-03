@@ -8,6 +8,8 @@
 	<string>should_have_many</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>shhm</string>
 	<key>uuid</key>
 	<string>88ACE985-85AF-497A-A982-A7A9B2F069FA</string>
 </dict>
