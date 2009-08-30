@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>spec.rb</string>
+	</array>
+	<key>foldingStartMarker</key>
+	<string>(?x)^
+	    (\s*+
+	        (module|class|def
+	        |unless|if
+	        |case
+	        |begin
+	        |for|while|until
+			 |^=begin
+	        |(  "(\\.|[^"])*+"          # eat a double quoted string
+	         | '(\\.|[^'])*+'        # eat a single quoted string
+	         |   [^#"']                # eat all but comments and strings
+	         )*
+	         (                        \s   (do|begin|case)
+	         | (?&lt;!\$)[-+=&amp;|*/~%^&lt;&gt;~] \s*+ (if|unless)
+	         )
+	        )\b
+	        (?! [^;]*+ ; .*? \bend\b )
+	    |(  "(\\.|[^"])*+"              # eat a double quoted string
+	     | '(\\.|[^'])*+'            # eat a single quoted string
+	     |   [^#"']                    # eat all but comments and strings
+	     )*
+	     ( \{ (?!  [^}]*+ \} )
+	     | \[ (?! [^\]]*+ \] )
+	     )
+	    ).*$
+	|   [#] .*? \(fold\) \s*+ $         # Sune’s special marker
+	</string>
+	<key>foldingStopMarker</key>
+	<string>(?x)
+		(   (^|;) \s*+ end   \s*+ ([#].*)? $
+		|   (^|;) \s*+ end \. .* $
+		|   ^     \s*+ [}\]] \s*+ ([#].*)? $
+		|   [#] .*? \(end\) \s*+ $    # Sune’s special marker
+		|   ^=end
+		)</string>
+	<key>keyEquivalent</key>
+	<string>^~R</string>
+	<key>name</key>
+	<string>Ruby Remarkable</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>source.ruby.rspec</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(should_accept_nested_attributes_for|should_allow_mass_assignment_of|should_allow_values_for|should_assign_to|should_belong_to|should_filter_param|should_have_and_belong_to_many|should_have_attached_file|should_have_column|should_have_columns|should_have_db_column|should_have_db_columns|should_have_db_index|should_have_db_indices|should_have_default_scope|should_have_many|should_have_named_scope|should_have_one|should_have_readonly_attribute|should_have_readonly_attributes|should_have_scope|should_not_assign_to|should_not_filter_params|should_not_redirect_to|should_not_set_session|should_not_set_the_flash|should_redirect_to|should_render_template|should_respond_with|should_route|should_set_cookie|should_set_cookies|should_set_session|should_set_the_flash|should_validate_acceptance_of|should_validate_associated|should_validate_attachment_content_type|should_validate_attachment_size|should_validate_confirmation_of|should_validate_exclusion_of|should_validate_inclusion_of|should_validate_length_of|should_validate_numericality_of|should_validate_presence_of|should_validate_uniqueness_of)\b</string>
+			<key>name</key>
+			<string>support.function.remarkable</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.ruby.rspec.remarkable</string>
+	<key>uuid</key>
+	<string>6900E235-06D6-4FCE-B9E5-76DBD201B1BE</string>
+</dict>
+</plist>
