@@ -1,6 +1,6 @@
 # TODO
 
-This bundle is work in progress. Any suggestions are welcomed. Currently many placeholders which can be set with snippets are missing. Any quesitons and suggegstions can be sent at <takaaki@samuraicoder.net>
+This bundle is work in progress. Any suggestions are welcomed. Currently many placeholders which can be set with snippets are missing. Any quesitons and suggegstions can be sent via GitHub message features.
 
 * Set more place holders
 * Supports negative **not** versions
@@ -14,7 +14,7 @@ There are also commands to open RDocs in your default browser.
 
 ## Install
 
-1. `git clone git://github.com/samuraicoder/remarkable-tmbundle.git ~/Library/Application\ Support/TextMate/Bundles/Ruby\ Remarkable.tmbundle`
+1. `git clone git://github.com/takaaki/remarkable-tmbundle.git ~/Library/Application\ Support/TextMate/Bundles/Ruby\ Remarkable.tmbundle`
 
 2. Reload the bundles from "Bundles" &#x2192; "Bundle Editor" &#x2192; "Reload Bundle"
 
@@ -46,3 +46,4 @@ Currently it cannot work with the other formats such as
 
 * Takaaki Kato 
 
+Please read the list of committers.
