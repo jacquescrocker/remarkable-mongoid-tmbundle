@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should have_attached_file :${1:image}
+	<string>should_have_attached_file :${1:image}
 
 </string>
 	<key>name</key>

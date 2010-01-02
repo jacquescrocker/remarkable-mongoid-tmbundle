@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validate_inclusion_of :${1:value} $0</string>
+	<string>should_validate_inclusion_of :${1:value} $0</string>
 	<key>name</key>
 	<string>should_validate_inclusion_of</string>
 	<key>scope</key>

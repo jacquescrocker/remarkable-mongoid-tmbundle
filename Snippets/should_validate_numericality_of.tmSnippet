@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>validate_length_of :${1:value} $0</string>
+	<string>should_validate_length_of :${1:value} $0</string>
 	<key>name</key>
 	<string>should_validate_numericality_of</string>
 	<key>scope</key>
