@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_not_redirect_to</string>
+	<string>should_render_template "${1:value}"</string>
 	<key>name</key>
 	<string>should_render_template</string>
 	<key>scope</key>
