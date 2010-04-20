@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_index :${1:value} $0</string>
+	<string>should_have_named_scope :${1:visible}, ${2::conditions =&gt; {:visible =&gt; true\}}</string>
 	<key>name</key>
 	<string>should_have_named_scope</string>
 	<key>scope</key>
